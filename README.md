@@ -9,7 +9,4 @@ The Midwest dataset from the 2000 US Census is analyzed in R using the Tidyverse
 
 ## **Key Insights**
 The analysis integrates data exploration, aggregation, and visualization to uncover demographic patterns:
-
-    Population Trends: IL has the largest population, with Milwaukee, WI, having the highest county-level density.
-    Education vs. Poverty: A clear inverse relationship exists, with Wisconsin showing the lowest poverty rates due to high education attainment.
-    Urbanization Patterns: OH is the most urbanized state, whereas WI is the least.
+![Dashboard 1](assests/img/1.png)
