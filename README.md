@@ -9,4 +9,4 @@ The Midwest dataset from the 2000 US Census is analyzed in R using the Tidyverse
 
 ## **Key Insights**
 The analysis integrates data exploration, aggregation, and visualization to uncover demographic patterns:
-![Dashboard 1](assests/img/1.png)
+![Dashboard 1](assets/img/1.png)
