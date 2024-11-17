@@ -1,5 +1,3 @@
-### Big Data 2: Final Project ###
-
 #Summary statistics of 'midwest' dataframe
 summary(midwest)
 
@@ -190,6 +188,3 @@ ggplot(urbanization, aes(x = state, y = total_counties, fill = urbanization_stat
   scale_fill_manual(values = c("Metro" = "blue", "Non-Metro" = "red")) +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 0, hjust = 1))
-
-
-
